@@ -42,6 +42,6 @@ git log --oneline
 git diff
 ```
 **Создать новую ветку**
-```sh
+``` sh
  git checkout -b <branch_name>
-
+````
