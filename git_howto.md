@@ -41,3 +41,6 @@ git log --oneline
 ```sh
 git diff
 ```
+**Вывести список веток**
+```sh 
+git branch
