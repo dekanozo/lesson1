@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dekanozo\\Desktop\\lesson1\\Task1\\Task1.csproj",
-      "projectName": "Task1",
-      "projectPath": "C:\\Users\\Dekanozo\\Desktop\\lesson1\\Task1\\Task1.csproj",
+      "projectUniqueName": "C:\\Users\\Dekanozo\\Desktop\\lesson1\\Task2\\Task2.csproj",
+      "projectName": "Task2",
+      "projectPath": "C:\\Users\\Dekanozo\\Desktop\\lesson1\\Task2\\Task2.csproj",
       "packagesPath": "C:\\Users\\Dekanozo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dekanozo\\Desktop\\lesson1\\Task1\\obj\\",
+      "outputPath": "C:\\Users\\Dekanozo\\Desktop\\lesson1\\Task2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dekanozo\\AppData\\Roaming\\NuGet\\NuGet.Config"
