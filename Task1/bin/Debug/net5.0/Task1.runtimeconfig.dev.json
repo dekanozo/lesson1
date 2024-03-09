@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Dekanozo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Dekanozo\\.nuget\\packages"
+    ]
+  }
+}
