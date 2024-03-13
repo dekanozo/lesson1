@@ -1,0 +1,14 @@
+C:\Users\Dekanozo\Desktop\lesson1\Seminars\Sem1\bin\Debug\net7.0\Sem1.exe
+C:\Users\Dekanozo\Desktop\lesson1\Seminars\Sem1\bin\Debug\net7.0\Sem1.deps.json
+C:\Users\Dekanozo\Desktop\lesson1\Seminars\Sem1\bin\Debug\net7.0\Sem1.runtimeconfig.json
+C:\Users\Dekanozo\Desktop\lesson1\Seminars\Sem1\bin\Debug\net7.0\Sem1.dll
+C:\Users\Dekanozo\Desktop\lesson1\Seminars\Sem1\bin\Debug\net7.0\Sem1.pdb
+C:\Users\Dekanozo\Desktop\lesson1\Seminars\Sem1\obj\Debug\net7.0\Sem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dekanozo\Desktop\lesson1\Seminars\Sem1\obj\Debug\net7.0\Sem1.AssemblyInfoInputs.cache
+C:\Users\Dekanozo\Desktop\lesson1\Seminars\Sem1\obj\Debug\net7.0\Sem1.AssemblyInfo.cs
+C:\Users\Dekanozo\Desktop\lesson1\Seminars\Sem1\obj\Debug\net7.0\Sem1.csproj.CoreCompileInputs.cache
+C:\Users\Dekanozo\Desktop\lesson1\Seminars\Sem1\obj\Debug\net7.0\Sem1.dll
+C:\Users\Dekanozo\Desktop\lesson1\Seminars\Sem1\obj\Debug\net7.0\refint\Sem1.dll
+C:\Users\Dekanozo\Desktop\lesson1\Seminars\Sem1\obj\Debug\net7.0\Sem1.pdb
+C:\Users\Dekanozo\Desktop\lesson1\Seminars\Sem1\obj\Debug\net7.0\Sem1.genruntimeconfig.cache
+C:\Users\Dekanozo\Desktop\lesson1\Seminars\Sem1\obj\Debug\net7.0\ref\Sem1.dll
