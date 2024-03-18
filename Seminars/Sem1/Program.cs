@@ -5,23 +5,32 @@ public class Answer {
     {
         if (firstNumber < secondNumber)
         {
-            Console.WriteLine($"{secondNumber} больше, чем {firstNumber}");
-        }
+            Console.WriteLine("второе число больше");
+        } 
         else if (firstNumber > secondNumber)
         {
-            Console.WriteLine($"{firstNumber} больше, чем {secondNumber}");
+            Console.WriteLine("первое число больше");
         }
         else
         {
-            Console.WriteLine($"{firstNumber} равно {secondNumber}");
+            Console.WriteLine("числа равны");
         }
     }
-    
-    // Пример использования метода CompareNumbers
-    public static void Main(string[] args)
-    {
-        CompareNumbers(10, 5); // Пример вывода: 10 больше, чем 5
-        CompareNumbers(5, 10); // Пример вывода: 10 больше, чем 5
-        CompareNumbers(5, 5);  // Пример вывода: 5 равно 5
+
+    // Не удаляйте и не меняйте метод Main! 
+    static public void Main(string[] args) {
+        int firstNumber, secondNumber;
+
+        if (args.Length >= 2) {
+            firstNumber = int.Parse(args[0]);
+            secondNumber = int.Parse(args[1]);
+        } else {
+           // Здесь вы можете поменять значения для отправки кода на Выполнение
+            firstNumber = 3;
+            secondNumber = 3;
+        }
+
+        // Не удаляйте строки ниже
+        CompareNumbers(firstNumber, secondNumber);
     }
 }
